@@ -5,6 +5,10 @@ const App = () => {
   return (
     <main>
       <UitoDesing />
+      
+      {
+        alert("NOTE: This is a UI-based website optimized for viewing on devices with a min screen width of 1440px. ")
+      }
     </main>
   )
 }
