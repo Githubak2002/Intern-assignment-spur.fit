@@ -22,6 +22,9 @@ Ui to website -
 
 NOTE → As this project is an assignment provided by a company, the current version of the website lacks responsiveness. The primary focus remains on developing the website in accordance with the provided UI FIGMA design. Additionally, the website is optimized for screen sizes of 1440 pixels or bigger.
 
+<img src="https://github.com/user-attachments/assets/23c319c5-2ab3-46af-85c2-72445da74a67" alt="website pg" />
+
+
 
 
 
